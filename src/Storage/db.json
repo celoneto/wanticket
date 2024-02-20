@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "id": "26ee",
+      "nome": "neto",
+      "telefone": "75981983457",
+      "email": "neto@teste.com",
+      "password": "00000000",
+      "adm": "true",
+      "cnpj": "00000000000000",
+      "empresa": "neto"
+    },
+    {
+      "id": "0b5d",
+      "nome": "Julia",
+      "telefone": "75992726937",
+      "email": "julia@teste.com",
+      "password": "00000000"
+    },
+    {
+      "id": "9cec",
+      "nome": "Marcelo",
+      "telefone": "75992941114",
+      "email": "celoneto@teste.com",
+      "password": "11111111",
+      "adm": "true",
+      "cnpj": "0000000000000",
+      "empresa": "Marcelo"
+    },
+    {
+      "id": "9d37",
+      "nome": "Liliana",
+      "telefone": "75992108294",
+      "email": "liu@teste.com",
+      "password": "22222222",
+      "adm": "true",
+      "cnpj": "04984136000134",
+      "empresa": "LiliKids"
+    }
+  ],
+  "login": [
+    {
+      "id": "6d77",
+      "nome": "neto",
+      "email": "neto@teste.com",
+      "password": "00000000",
+      "adm": "true"
+    },
+    {
+      "id": "9b5d",
+      "nome": "Julia",
+      "email": "julia@teste.com",
+      "password": "00000000"
+    },
+    {
+      "id": "31de",
+      "nome": "Marcelo",
+      "email": "celoneto@teste.com",
+      "password": "11111111",
+      "adm": "true"
+    },
+    {
+      "id": "8621",
+      "nome": "Liliana",
+      "email": "liu@teste.com",
+      "password": "22222222",
+      "adm": "true"
+    }
+  ],
+  "evento": [
+    {
+      "id": "da8e",
+      "nome": "Paggue Fest",
+      "local": "Edificio Icone",
+      "setor": "Camarote",
+      "capacidade": "10",
+      "valor": "200.00",
+      "setor2": "Cadeira",
+      "capacidade2": "20",
+      "valor2": "50.00",
+      "setor3": "Em pé",
+      "capacidade3": "20",
+      "valor3": "10.00",
+      "lote": "1",
+      "acrescimo": "10.00",
+      "cupom": "paggue",
+      "desconto": "10.00",
+      "ativo": true
+    }
+  ]
+}
