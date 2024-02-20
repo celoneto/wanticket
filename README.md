@@ -5,4 +5,10 @@ Aplicação em Front-end usando ReactJS para compra e venda de ingressos.
 # Pré requisitos
 Instalar o Json-server: (https://github.com/typicode/json-server).
 
-Comando para rodar o json-server: `json-server --watch db.json --port 3500`
+#configuração
+Já existe um arquivo chamado db.json na pasta storage dentro do src
+Para rodar o json-server use o comando: `json-server --watch db.json --port 3500`
+Que é a porta que ele foi configurado
+
+Utilize o `npm start` para executar o Wanticket
+
