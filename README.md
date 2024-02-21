@@ -12,3 +12,5 @@ Para rodar o json-server use o comando dentro da pasta do projeto, dentro da pas
 Utilize o `npm install` para instalar todas as dependencias utlizadas para ser criado o node modules;
 Em seguida, utilize o `npm start` para executar o Wanticket
 
+# Atenção
+Se der o `npm start` antes de abrir o json vai dar erro. É necessário que as dependências sejam instalas e o json-server seja aberto antes do start no código.
